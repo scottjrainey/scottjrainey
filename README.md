@@ -8,7 +8,7 @@ Engineering is changing, so I am too. Roles like "Software Engineer" and "Design
 
 _Agentic engineers_ don't write much code, if any. They **create agents** and **workflows for _those agents and other builders_**. Builders and agents use the same tools.
 
-I keep some code and ideas I have found useful in becoming a builder here. I talk about things a lot more on [my blog](https://scottjrainey.engineer).
+I keep some code and ideas I have found useful in becoming a builder here. I talk about things a lot more on ✨[my new blog](https://scottjrainey.engineer)✨.
 
 <!--
 **scottjrainey/scottjrainey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
